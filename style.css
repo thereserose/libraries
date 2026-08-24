@@ -13159,9 +13159,6 @@ input.action:hover, button.action:hover, input.action:focus, button.action:focus
 		column-gap: 0.25rem;
 		flex-flow: wrap;
 		justify-content: center;
-		li:after {
-			content: ' · ';
-		}
 		li:first-child {
 			flex-basis: 100%;
 		}
