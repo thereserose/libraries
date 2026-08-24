@@ -13160,7 +13160,7 @@ input.action:hover, button.action:hover, input.action:focus, button.action:focus
 		flex-flow: wrap;
 		justify-content: center;
 		li:after {
-			content: ' Â· ';
+			content: ' · ';
 		}
 		li:first-child {
 			flex-basis: 100%;
