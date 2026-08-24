@@ -11639,7 +11639,7 @@ select {
   padding: 0.5em 1em;
 }
 #umass-footer {
-  text-align: center;
+  text-align: left;
   min-height: 4.5rem;
   padding-top: 1rem;
   font-size: 0.9rem;
