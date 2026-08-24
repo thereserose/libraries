@@ -1456,12 +1456,6 @@ body {
   }
 }
 
-#umass--global--footer #umass--logo-longform--stacked {
-  max-width: 250px !important;
-  height: auto;
-  margin: 1rem 0;
-}
-
 #umass-banner,
 #umass-banner + #metanav,
 .umass-legacy-header-banner {
@@ -1473,10 +1467,6 @@ body {
   display: none;
 }
 */
-#umass-footer,
-.umass-legacy-footer-banner {
-  wdisplay: none;
-}
 
 @media only screen and (min-width: 600px) {
   #umass--global--header #umass--global--navigation--navicon {
