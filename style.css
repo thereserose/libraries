@@ -11551,23 +11551,6 @@ select {
   display: block;
   font-size: 0.8em;
   padding: 0.5em 1em;
-}
-#umass-footer {
-  text-align: center;
-  min-height: 4.5rem;
-  padding-top: 1rem;
-  font-size: 0.9rem;
-  background: #840028;
-  color: #555;
-  width: 100%;
-  max-width: 90rem;
-  margin-right: auto;
-  margin-left: auto;
-  padding-left: 3rem;
-}
-#umass-footer a, #umass-footer p {
-  color: white;
-  padding: 0em 0em;
   
 }
 #librarywordmark img {
