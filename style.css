@@ -7811,10 +7811,6 @@ kbd {
 p + .stat {
   margin-top: -1rem;
 }
-ul.no-bullet, ol.no-bullet {
-  margin-left: 0;
-  list-style: none;
-}
 .text-left {
   text-align: left;
 }
